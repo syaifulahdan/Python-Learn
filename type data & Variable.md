@@ -36,12 +36,19 @@ Penulisan string bisa ditulis dengan cara, antara lain :
 ###Menggunakan whitespace character
 
 \n  garis baru
+
 \r  menghapus string sebelumnya
+
 \t  tab
+
 \v  vertikal tab
+
 \e  escape
+
 \f  karakter sesudahnya pada garis baru
+
 \b  backspace
+
 \a  bell
 
 
