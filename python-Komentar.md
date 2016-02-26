@@ -1,4 +1,4 @@
-# Python-Learn
+# Python-komentar
 
 
 Komentar adalah teks apapun yang diawali dengan tanda #, digunakan untuk memberikan catatan kepada pembaca kode. Anda dapat melihat kembali lat1.py untuk memberikan keterangan nama file
