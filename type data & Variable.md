@@ -26,3 +26,8 @@ no    = 7
 4. <b>Complex number.</b> Untuk bilangan real dan imajiner.
 
 #Tipe data String
+
+Penulisan string bisa ditulis dengan cara, antara lain :
+1. Diapit dengan tanda petik tunggal ( ' ).
+2. Diapit dengan tanda petik ganda ( " ).
+3. Diapit dengan tiga tanda petik ganda ( """ ).
