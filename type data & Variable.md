@@ -20,9 +20,9 @@ no    = 7
 
 #Tipe data Number
 
-1. Plain integer. Integer ini mempunyai range nilai antara -2^32 sampai 2^31 – 1 .
-2. Long integer. Perhitungan di luar range nilai integer.
-3. Floating Point Real Number. Bilangan real.
-4. Complex number. Untuk bilangan real dan imajiner.
+1. <b>Plain integer.</b> Integer ini mempunyai range nilai antara -2^32 sampai 2^31 – 1 .
+2. <b>Long integer.</b> Perhitungan di luar range nilai integer.
+3. <b>Floating Point Real Number.</b> Bilangan real.
+4. <b>Complex number.</b> Untuk bilangan real dan imajiner.
 
 #Tipe data String
