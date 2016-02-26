@@ -4,7 +4,7 @@ Anda memesan beberapa ruang di memori. Variabel bisa digunakan untuk menyimpan b
 
 Pada banyak bahasa pemrograman, ada dua cara untuk membuat variabel. Cara yang pertama variabel langsung dengan nilai disebut dengan inisialisasi. Sedangkan cara kedua dengan memasukkan nilai
 pada variabel yang biasa disebut penempatan
-Tipe data di bahasa pemrograman python dibagi menjadi dua kelompok yaitu :
+Tipe data di bahasa pemrograman python dibagi menjadi dua kelompok yaitu :</br>
 1. <b>immutable</b> = tipe data yang tidak bisa diubah (string dan bilangan)
 2. <b>mutable</b> = tipe data yang bisa diubah (list dan dictionary)
 
