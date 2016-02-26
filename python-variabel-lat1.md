@@ -1,4 +1,4 @@
-### Python-Learn-latihan variabel
+### Python-Learn-latihan variabel1
 <pre>
 nama = raw_input("Siapakah namamu?\n")
 print "--------------------------------"
