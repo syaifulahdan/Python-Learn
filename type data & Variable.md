@@ -35,21 +35,14 @@ Penulisan string bisa ditulis dengan cara, antara lain :
 
 ###Menggunakan whitespace character
 
-\n  garis baru
-
-\r  menghapus string sebelumnya
-
-\t  tab
-
-\v  vertikal tab
-
-\e  escape
-
-\f  karakter sesudahnya pada garis baru
-
-\b  backspace
-
-\a  bell
+<b>\n  </b>: garis baru
+<b>\r  </b>: menghapus string sebelumnya
+<b>\t  </b>: tab
+<b>\v  </b>: vertikal tab
+<b>\e  </b>: escape
+<b>\f  </b>: karakter sesudahnya pada garis baru
+<b>\b  </b>: backspace
+<b>\a  </b>: bell
 
 
 
