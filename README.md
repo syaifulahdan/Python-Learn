@@ -4,3 +4,7 @@ Hello word merupakan "tema standar" dalam permulaan belajar sebuah bahasa pemrog
 
 <pre>print "hello world !"
 </pre>
+
+simpan dan jalankan file tersebut
+
+<pre>python hallo.py</pre>
