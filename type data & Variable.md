@@ -1,9 +1,9 @@
 # Python-Type Data & Variable
-<j>Variabel adalah entitas yang memiliki nilai dan berbeda satu dengan yang lain. Variabel mengalokasikan memori untuk menyimpan nilai. Hal ini berarti ketika Anda membuat variabel, maka
+<justify>Variabel adalah entitas yang memiliki nilai dan berbeda satu dengan yang lain. Variabel mengalokasikan memori untuk menyimpan nilai. Hal ini berarti ketika Anda membuat variabel, maka
 Anda memesan beberapa ruang di memori. Variabel bisa digunakan untuk menyimpan bilangan bulat,  desimal atau juga karakter.
 
 Pada banyak bahasa pemrograman, ada dua cara untuk membuat variabel. Cara yang pertama variabel langsung dengan nilai disebut dengan inisialisasi. Sedangkan cara kedua dengan memasukkan nilai
-pada variabel yang biasa disebut penempatan</j>
+pada variabel yang biasa disebut penempatan</justify>
 Tipe data di bahasa pemrograman python dibagi menjadi dua kelompok yaitu :
 1. immutable = tipe data yang tidak bisa diubah (string dan bilangan)
 2. mutable = tipe data yang bisa diubah (list dan dictionary)
