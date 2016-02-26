@@ -18,14 +18,14 @@ variabel. Untuk pemberian nilai, bisa langsung dengan tanda "=". Misalnya :
 no    = 7
 </pre>
 
-##Tipe data Number
+###Tipe data Number
 
 1. <b>Plain integer.</b> Integer ini mempunyai range nilai antara -2^32 sampai 2^31 – 1 .
 2. <b>Long integer.</b> Perhitungan di luar range nilai integer.
 3. <b>Floating Point Real Number.</b> Bilangan real.
 4. <b>Complex number.</b> Untuk bilangan real dan imajiner.
 
-#Tipe data String
+###Tipe data String
 
 Penulisan string bisa ditulis dengan cara, antara lain :
 
@@ -33,7 +33,7 @@ Penulisan string bisa ditulis dengan cara, antara lain :
 2. Diapit dengan tanda petik ganda ( " ).
 3. Diapit dengan tiga tanda petik ganda ( """ ).
 
-##Menggunakan whitespace character
+###Menggunakan whitespace character
 
 \n  garis baru
 \r  menghapus string sebelumnya
