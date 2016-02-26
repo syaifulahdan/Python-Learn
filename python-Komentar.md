@@ -5,9 +5,9 @@ Komentar adalah teks apapun yang diawali dengan tanda #, digunakan untuk memberi
 kita dapat memberikan komentar. 
 
 <pre>#lat2.py</pre>
-#lat2.py adalah nama file ini
-#program ini akan menampilkan 'Halo Indonesia!'
-#kemudian akan menampilkan 'Halo Jakarta!'
+lat2.py adalah nama file ini
+program ini akan menampilkan 'Halo Indonesia!'
+kemudian akan menampilkan 'Halo Jakarta!'
 
 
 <pre>
