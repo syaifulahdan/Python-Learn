@@ -32,3 +32,21 @@ Penulisan string bisa ditulis dengan cara, antara lain :
 1. Diapit dengan tanda petik tunggal ( ' ).
 2. Diapit dengan tanda petik ganda ( " ).
 3. Diapit dengan tiga tanda petik ganda ( """ ).
+
+#Menggunakan whitespace character
+\n  garis baru
+\r  menghapus string sebelumnya
+\t  tab
+\v  vertikal tab
+\e  escape
+\f  karakter sesudahnya pada garis baru
+\b  backspace
+\a  bell
+
+
+
+
+
+
+
+
