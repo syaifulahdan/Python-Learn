@@ -34,3 +34,19 @@ Type "copyright", "credits" or "license()" for more information.
 1
 >>> 
 </pre>
+
+###Manipulasi String
+
+<pre>
+print 'pintarcoding.com!' *3
+print 'hallo' + '' + 'pintarcoding.com!'
+</pre>
+<b> output </b>
+<Pre>
+>>> ================================ RESTART ================================
+>>> 
+pintarcoding.com!pintarcoding.com!pintarcoding.com!
+hallopintarcoding.com!
+>>> 
+</pre>
+
