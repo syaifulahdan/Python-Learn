@@ -10,6 +10,28 @@ nanti teman-teman tambahkan sendiri ya kalau masih ada yang tidak disebutkan.
 ##Operator Aritmatika
 Operator aritmatika sendiri merupakan operator yang dipergunakan dalam melakukan operasi matematika, seperti pengurangan, pembagian, penambahan, perkalian, pangkat, modulus dll. Berikut
 contoh penggunaan operator aritmatika pada bahasa pemrograman python :
+
+  <pre class="line-numbers"><code class="language-python">mininet&gt; py h1.IP()
+10.0.0.1
+mininet&gt; py h2.IP()
+10.0.0.2
+mininet&gt; py s1.IP()
+127.0.0.1
+mininet&gt; py s1.ports
+{&lt;Intf lo&gt;: 0, &lt;TCIntf s1-eth3&gt;: 3, &lt;TCIntf s1-eth2&gt;: 2, &lt;TCIntf s1-eth1&gt;: 1}
+mininet&gt; py s2.ports
+{&lt;TCIntf s2-eth2&gt;: 2, &lt;Intf lo&gt;: 0, &lt;TCIntf s2-eth1&gt;: 1}
+mininet&gt; py h1.MAC()
+26:51:25:0b:04:90
+mininet&gt; py h2.MAC()
+ca:97:50:a0:f7:ee
+</code></pre>
+                    <p class="text-center code-caption"><strong>Code Example 4.</strong> More Mininet CLI experiments
+                        with the custom topology from Code Example 2.
+
+
+
+
 <pre>
 
 print 3 + 2 * 3 - 10 / 5
