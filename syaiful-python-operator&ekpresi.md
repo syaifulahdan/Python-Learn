@@ -104,4 +104,4 @@ bil1 % bil2 =  2.0
 </pre>
 
 
-lanjutan : syaiful-python-operator&ekpresi.py
+lanjutan ke Script  : https://gist.github.com/syaifulahdan/9928ab9ed6f2730485b8
