@@ -102,3 +102,6 @@ bil1 // bil2 =  1.0
 bil1 % bil2 =  2.0
 -------------------------------------------------------------------------------
 </pre>
+
+
+lanjutan : syaiful-python-operator&ekpresi.py
