@@ -51,3 +51,20 @@ hallopintarcoding.com!
 </pre>
 
 ##Operator Pembanding
+Pada bahasa python terdapat 3 operator logika antara lain and, <b> or</b> , <b>dan</b> <b>not</b>. Adapun cara penggunaan dari operator-operator tersebut adalah sebagai berikut :
+
+<pre>
+print 10 > 2 and 10 > 5   # bernilai True
+print True or False       # bernilai True
+print not False           # bernilai True
+</pre>
+
+<b>output :</b>
+<pre>
+>>> ================================ RESTART ================================
+>>> 
+True
+True
+True
+>>> 
+</pre>
