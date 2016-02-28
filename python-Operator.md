@@ -7,7 +7,7 @@ Tapi untuk lebih jelasnya yuks kita kupas bersama operator pada bahasa pemrogram
 Ada beberapa tipe operator antara lain operator aritmatika, operator untuk membandingkan, operator logika seperti and dan or, dan mungkin masih banyak lagi yang tidak bisa saya sebutkan satu persatu,
 nanti teman-teman tambahkan sendiri ya kalau masih ada yang tidak disebutkan.
 
-###Operator Aritmatika
+##Operator Aritmatika
 Operator aritmatika sendiri merupakan operator yang dipergunakan dalam melakukan operasi matematika, seperti pengurangan, pembagian, penambahan, perkalian, pangkat, modulus dll. Berikut
 contoh penggunaan operator aritmatika pada bahasa pemrograman python :
 <pre>
@@ -50,3 +50,4 @@ hallopintarcoding.com!
 >>> 
 </pre>
 
+##Operator Pembanding
