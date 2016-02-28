@@ -1,10 +1,11 @@
-# Python-Learn-Operator& Ekpresi
+### Python-Learn-Operator& Ekpresi
 
 Hampir semua statemen (baris logis) yang Anda tulis akan mengandung ekspresi. Contoh sederhana dari ekspresi adalah 2+3. Sebuah ekspresi dapat diturunkan menjadi operator dan operand.
 Operator adalah fungsi yang menjalankan sesuatu dan direpresentasikan oleh simbol, seperti + atau kata kunci khusus. Operator membutuhkan data untuk dioperasikan dan data ini disebut operand.
 Dalam kasus ini 2 dan 3 adalah operand
 
 <b>Operator</b>
+
 Kita akan melihat operator secara singkat dan bagaimana penggunaannya:
 
 +   : Menambahkan dua obyek
@@ -69,6 +70,7 @@ print 'bil1 ** bil2 = ', bilangan1 ** bilangan2
 print '-' * 80
 </pre>
 <b> output 1:</b>
+
 <pre>
 --------------------------------------------------------------------------------
 bil1 =  5
