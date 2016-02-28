@@ -1,4 +1,4 @@
-# Python-Learn-pengurutan Hasil operator matematika
+### Python-Learn-pengurutan Hasil operator matematika
 
 Mengubah Urutan Evaluasi Untuk membuat ekspresi lebih mudah dibaca, kita dapat menggunakan tanda kurung. Sebagai contoh, 2
 + (3 * 4) lebih mudah dipahami daripada 2 + 3 * 4 dimana pembaca harus mengetahui urutan evaluasi operator. Namun pemakaian tanda kurung jangan terlalu berlebihan seperti (2 + (3 * 4)).
