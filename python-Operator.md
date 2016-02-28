@@ -11,7 +11,7 @@ nanti teman-teman tambahkan sendiri ya kalau masih ada yang tidak disebutkan.
 Operator aritmatika sendiri merupakan operator yang dipergunakan dalam melakukan operasi matematika, seperti pengurangan, pembagian, penambahan, perkalian, pangkat, modulus dll. Berikut
 contoh penggunaan operator aritmatika pada bahasa pemrograman python :
 
-  <pre class="line-numbers"><code class="language-python">mininet&gt; py h1.IP()
+   <pre class="line-numbers"><code class="language-python">mininet&gt; py h1.IP()
 10.0.0.1
 mininet&gt; py h2.IP()
 10.0.0.2
@@ -28,6 +28,7 @@ ca:97:50:a0:f7:ee
 </code></pre>
                     <p class="text-center code-caption"><strong>Code Example 4.</strong> More Mininet CLI experiments
                         with the custom topology from Code Example 2.
+                    </p>
 
 
 
