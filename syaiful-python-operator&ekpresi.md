@@ -77,3 +77,24 @@ bil1 * bil2 = 15
 bil1 ** bil2 =  125
 -------------------------------------------------------------------------------
 </pre>
+
+<pre>
+bilangan1 = 5.0
+print 'bil1 = ', bilangan1
+print 'bil2 = ', bilangan2
+print 'bil1 / bil2 = ', bilangan1 / bilangan2
+print 'bil1 // bil2 = ', bilangan1 // bilangan2
+print 'bil1 % bil2 = ', bilangan1 % bilangan2
+print '-' * 80
+</pre>
+<b> output:</b>
+
+<pre>
+--------------------------------------------------------------------------------
+bil1 =  5.0
+bil2 =  3
+bil1 / bil2 =  1.66666666667
+bil1 // bil2 =  1.0
+bil1 % bil2 =  2.0
+-------------------------------------------------------------------------------
+</pre>
