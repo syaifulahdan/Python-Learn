@@ -54,6 +54,8 @@ and : (boolean AND) x and y mengembalikan False jika x bernilai False, selain it
 
 or  : (boolean OR) Jika x bernilai True, x or y akan mengembalikan True, selain itu akan mengembalikan nilai y. x = True; y = False; x or y mengembalikan True.short-circuit evaluasi berlaku juga disini.
 
+<b> script 1:</b>
+
 <pre>
 print '-' * 80
 bilangan1 = 5
@@ -66,7 +68,7 @@ print 'bil1 * bil2 = {0}'.format(bilangan1 * bilangan2)
 print 'bil1 ** bil2 = ', bilangan1 ** bilangan2
 print '-' * 80
 </pre>
-<b> output:</b>
+<b> output 1:</b>
 <pre>
 --------------------------------------------------------------------------------
 bil1 =  5
@@ -78,6 +80,8 @@ bil1 ** bil2 =  125
 -------------------------------------------------------------------------------
 </pre>
 
+<b> script 2:</b>
+
 <pre>
 bilangan1 = 5.0
 print 'bil1 = ', bilangan1
@@ -87,7 +91,7 @@ print 'bil1 // bil2 = ', bilangan1 // bilangan2
 print 'bil1 % bil2 = ', bilangan1 % bilangan2
 print '-' * 80
 </pre>
-<b> output:</b>
+<b> output 2:</b>
 
 <pre>
 --------------------------------------------------------------------------------
